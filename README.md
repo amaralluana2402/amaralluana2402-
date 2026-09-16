@@ -5,9 +5,9 @@ src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
 ## I'm Luana! Let me present a little about myself :D
 
-Social Media Specialist focused on Content Strategy, Copywriting and Social Media Analytics 
+Social Media Specialist focused on Content Strategy, Copywriting and Social Media Analytics 📱
 
-Lover of communication, creativity and strategic content 
+Passionate about creating strategic content, building brands and turning data into better communication ✨
 
 ## About me
 
@@ -15,5 +15,13 @@ Lover of communication, creativity and strategic content
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanaamaralm/)](https://www.linkedin.com/in/luanaamaralm/)
 
+- Social Media Management
+- Content Strategy
+- Copywriting
+- Content Creation
+- Social Media Analytics
+- Community Management
+- Digital Marketing
+- Currently studying Public Relations at UNESP
 - Thanks for visiting.
 - Enjoy it!! o/
